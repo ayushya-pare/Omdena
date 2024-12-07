@@ -3,11 +3,12 @@
 In this project, we aimed to develop a machine-learning model capable of predicting crop yields using both climatic and agricultural data.  he primary goal was to predict the yield of crops in hectares, a critical task for ensuring sustainable agricultural practices and better planning for food production.
 
 ## Technologies used
-* Data Preprocessing
-* Feature engineering
-* Model selection
-* Model evaluation
-* Model deployment
+1. Data extraction - BeautifulSoup
+2. EDA - Pandas, numpy, Mann-Kendall Trend analysis, Collinearity
+3. Visualization - Matplotlib, seaborn, Geopandas 
+4. Clustering / Segmentation - K-means
+5. Machine learning - Modelling (PyCaret), Hyperparameter Tuning, Evaluation, MLFlow
+6. Deployment - Docker, Flask, Streamlit
 
 ## Deployed Webapp
 https://omdena-maize-agricultural-yield-in-kenya.streamlit.app 
