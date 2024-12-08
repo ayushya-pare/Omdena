@@ -13,3 +13,7 @@ In this project, we aimed to develop a machine-learning model capable of predict
 ## Deployed Webapp
 https://omdena-maize-agricultural-yield-in-kenya.streamlit.app 
 
+## Major contributions
+* [EDA: ](Data Preprocessing & Analysis/Consolidated_analysis_ayushya.ipynb)
+* [Modelling: ](Model Development/Kenya_1981_2023_detrended_var_Modeling_Sahar_Nikoo_10_OCT.ipynb)
+
